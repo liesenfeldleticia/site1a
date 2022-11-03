@@ -1,0 +1,76 @@
+
+body {
+	background-color: #2F4F4F;
+}
+
+header, footer {
+	background-color:4F4F4F;
+
+
+}
+
+#imagemlogo{
+width: 250px;
+height:250px;
+
+}
+nav li {
+list-style: none;
+
+}
+
+#imagemprincipal{
+	width: 95%;
+	height: 400px;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 20px;
+
+
+}
+main {
+
+background-color: #FFFF00;
+
+}
+
+h3 {
+	text-align: center;
+	color:black;
+
+}
+
+b {
+	color: black;
+	font-size: 30px;
+}
+
+#paragrafodiferente {
+	color: darkred;
+	font-size: 50px;
+
+
+}
+
+i {
+font-size: 40px;
+ }
+
+ .momentos {
+ 	background-color: yellow;
+ 	padding: in;
+ 	margin: 10px;
+ 	border: black solid 2px;
+ }
+
+ #imagemlateral {
+ 	display:inline-block ;
+ 	width: 30%;
+ 	height: inherit;
+ 	vertical-align: top;
+ }
+
+ .lista {
+ 	display:inline-block ;
+ 	font-size: 40px;
+ }
